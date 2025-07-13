@@ -48,11 +48,11 @@ const Footer = () => {
   ]
 
   const socialLinks = [
-    { name: 'Facebook', icon: Facebook, url: 'https://facebook.com/edupath' },
-    { name: 'Twitter', icon: Twitter, url: 'https://twitter.com/edupath' },
-    { name: 'Instagram', icon: Instagram, url: 'https://instagram.com/edupath' },
-    { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/company/edupath' },
-    { name: 'YouTube', icon: Youtube, url: 'https://youtube.com/edupath' }
+    { name: 'Facebook', icon: Facebook},
+    { name: 'Twitter', icon: Twitter},
+    { name: 'Instagram', icon: Instagram},
+    { name: 'LinkedIn', icon: Linkedin},
+    { name: 'YouTube', icon: Youtube}
   ]
 
   return (
@@ -80,11 +80,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center text-gray-300">
                 <Mail className="h-4 w-4 mr-3" />
-                <span>support@edupath.in</span>
+                <span>krityapandey30@gmail.com</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <Phone className="h-4 w-4 mr-3" />
-                <span>+91 98765 43210</span>
+                <span>99425XXXXX</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <MapPin className="h-4 w-4 mr-3" />
